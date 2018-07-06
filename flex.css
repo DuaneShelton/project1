@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  border: solid 5px black;
+  justify-content: center;
+  align-items: center;
+}
+
+.box{
+  border: solid 5px deepskyblue;
+  width: 3em;
+  height: 3em;
+}
